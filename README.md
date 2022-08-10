@@ -1,6 +1,6 @@
 
-<h1 align="center">
-  <img alt="Keeper" title="Keeper" src=".github/keeper.PNG" />
+<h1 align="center">Keeper 
+
 </h1>
 
 <p align="center">
@@ -26,6 +26,7 @@
 
 
 <p align="center">
+  <img alt="Keeper" src=".github/keeper.PNG" width="100%">
   
  
 </p>
