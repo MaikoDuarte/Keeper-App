@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Simples criador de notas.
+Aplicação de criação de notas rápidas. A aplicação permite criar as notas adicionando um título, e apagá-las quando conclúidas.
 
 ## 🚀 Como executar
 
